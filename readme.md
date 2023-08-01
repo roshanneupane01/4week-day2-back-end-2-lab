@@ -1,0 +1,3 @@
+Week 4 day 2 back end 2 - lab
+
+In this lab, I worked on the back-end part of a real estate application. The application allowed me to add a new house with an address, price, and image URL. I could also view all houses in the database, edit prices (+- $10,000), and delete houses from the database. Following the provided instructions, I set up the application, created endpoints, and implemented the required functionality.
